@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dashboard_2001_a/static/css/main.69e0ac2a.css",
-    "main.js": "/dashboard_2001_a/static/js/main.5b9cc286.js",
-    "static/js/787.7a3d4ae3.chunk.js": "/dashboard_2001_a/static/js/787.7a3d4ae3.chunk.js",
-    "static/media/LogoDashboard2.png": "/dashboard_2001_a/static/media/LogoDashboard2.7bb6aaa8c0778d5db7dd.png",
-    "index.html": "/dashboard_2001_a/index.html",
-    "main.69e0ac2a.css.map": "/dashboard_2001_a/static/css/main.69e0ac2a.css.map",
-    "main.5b9cc286.js.map": "/dashboard_2001_a/static/js/main.5b9cc286.js.map",
-    "787.7a3d4ae3.chunk.js.map": "/dashboard_2001_a/static/js/787.7a3d4ae3.chunk.js.map"
+    "main.css": "/Dashboard_2001_A/static/css/main.69e0ac2a.css",
+    "main.js": "/Dashboard_2001_A/static/js/main.bb41f23d.js",
+    "static/js/787.7a3d4ae3.chunk.js": "/Dashboard_2001_A/static/js/787.7a3d4ae3.chunk.js",
+    "static/media/LogoDashboard2.png": "/Dashboard_2001_A/static/media/LogoDashboard2.7bb6aaa8c0778d5db7dd.png",
+    "index.html": "/Dashboard_2001_A/index.html",
+    "main.69e0ac2a.css.map": "/Dashboard_2001_A/static/css/main.69e0ac2a.css.map",
+    "main.bb41f23d.js.map": "/Dashboard_2001_A/static/js/main.bb41f23d.js.map",
+    "787.7a3d4ae3.chunk.js.map": "/Dashboard_2001_A/static/js/787.7a3d4ae3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69e0ac2a.css",
-    "static/js/main.5b9cc286.js"
+    "static/js/main.bb41f23d.js"
   ]
 }
